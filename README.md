@@ -52,7 +52,7 @@ For any questions or suggestions, feel free to open an issue in the repository o
 
 ## Screenshots
 
-![Weather App Screenshot](img/screenshot.jpeg)
+![Weather App Screenshot](img/scrrenshot.jpeg)
 
 ---
 
