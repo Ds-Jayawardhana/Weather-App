@@ -1,6 +1,4 @@
-Here is a draft for the README file of your Weather App GitHub repository:
 
----
 
 # Weather App
 
@@ -54,6 +52,4 @@ For any questions or suggestions, feel free to open an issue in the repository o
 
 ![Weather App Screenshot](img/scrrenshot.jpeg)
 
----
 
-Feel free to customize this template as per your requirements.
